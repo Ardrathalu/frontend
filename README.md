@@ -1,1 +1,1 @@
-
+This HTMl code is for making the form with fields First name, Last anme, addressline 1, address line 2 and city. A button is also provided using javascript to check whether the fields are enterd with values. if value is not enterd in any of the fields an alert message will be displayed.
